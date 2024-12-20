@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicrofrontend_host=self.webpackChunkmicrofrontend_host||[]).push([[792],{947:(s,n,e)=>{e.e(439).then(e.bind(e,439)).catch(o=>console.error(o))}},s=>{s(s.s=947)}]);
